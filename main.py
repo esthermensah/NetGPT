@@ -47,11 +47,10 @@
 #     print(explanation)
 
 
-# File: main.py
 import openai
 import json
 
-# Load API key from secret.json
+# Load API key from config file
 with open("config.json") as f:
     key_data = json.load(f)
 openai.api_key = key_data["OPENAI_API_KEY"]
