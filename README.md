@@ -17,3 +17,9 @@ This project is like a smart translator: You paste the tehnical text, and it tal
 3. Run `python main.py`, paste your Cisco config, and get an easy-to-understand explanation.  
  
 
+## Skills Highlighted
+
+- Python scripting and automation  
+- Generative AI integration (OpenAI API)  
+- Network engineering basics and config parsing  
+- Secure API key management 
